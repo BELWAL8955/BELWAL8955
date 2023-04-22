@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BELWAL8955
-- 👀 I’m interested in analysis data around automotive segments.
+- 👀 I’m interested in Bigdata and Data engineering around automotive segments.
 - 🌱 I’m currently learning Python and helping Engineering students in personality development,Resume writing LinkedIn profile Building and Interview Prepration of companies  for their dream intersnhips.
 - 🤘 LinkedIn - https://www.linkedin.com/in/hbelwal/
 - 😎 Instagram for a PURPOSE. Link -https://www.instagram.com/engineersinbriefs/
